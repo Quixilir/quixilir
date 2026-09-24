@@ -1,27 +1,35 @@
-<img src="assets/banner.svg" alt="Quixilir. Hardware, embedded systems, security." width="100%">
+<img src="assets/banner.svg" alt="Luca. Electronics, robotics, embedded systems." width="100%">
 
-Electronics hobbyist working where hardware meets security. I build embedded devices, test gear and firmware tools, mostly around the ESP32.
+High school student and electronics hobbyist from Romania, working across **electronics, robotics, embedded systems and programming**. I've been building and experimenting with hardware for a few years, and started sharing my projects publicly in 2026.
 
 ## Links
 
-- Website: [quixilir.pages.dev](https://quixilir.pages.dev)
-- Devices: [Tindie store](https://www.tindie.com/stores/Quixilir)
-- Video: [YouTube](https://www.youtube.com/@quixilir) and [TikTok](https://www.tiktok.com/@quixilir)
-- Used gear: [Vinted](https://www.vinted.ro/member/252497020-quixilir)
+* Website: [quixilir.pages.dev](https://quixilir.pages.dev)
+* YouTube: [@quixilir](https://www.youtube.com/@quixilir)
+* TikTok: [@quixilir](https://www.tiktok.com/@quixilir)
 
 ## What I build
 
-- Standalone handheld PCB running Bruce firmware, an ESP32-based pentest multi-tool
-- Assembled Bruce devices, sold on Tindie
-- Test equipment: capacitance meters, an ESP8266 battery capacity tester
-- Radio: HackRF with Portapack, a wooden AM frame loop antenna for medium-wave DX
-- Raspberry Pi Zero 2W cyberdeck
-- Smart aeroponic tower with an ESP32
+* Custom ESP32 and ESP32-S3 devices
+* Custom PCBs and embedded electronics
+* Robotics projects with QX Robotics
+* Microcontroller-based tools and experimental hardware
+* 3D-printed enclosures and mechanical parts
+* Radio and SDR projects
+* Small programming and game-development projects
 
 ## Hardware
 
-ESP32, ESP8266, Arduino, Raspberry Pi Zero 2W, HackRF
+ESP32 • ESP32-S3 • Arduino • Raspberry Pi • HackRF • Sensors • Displays • Custom PCBs
+
+## Currently learning
+
+ • RF & wireless electronics • Robotics • Game making
+
+## About
+
+I enjoy taking an idea from a sketch or schematic and turning it into something that actually works. Most of my projects are experimental, and I like learning by building, breaking and improving things.
 
 ## Contact
 
-Message me through the [website](https://quixilir.pages.dev), or on Discord: whitewolf04898
+You can reach me through my website or my social media profiles.
